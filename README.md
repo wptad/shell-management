@@ -1,4 +1,9 @@
 shell-management
 ================
 
-shell-management note
+RESOURCE
+========
+
+* <http://tldp.org/LDP/abs/html/index.html>
+* <http://tldp.org/guides.html>
+
